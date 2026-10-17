@@ -1,0 +1,11 @@
+customer_id,gender,senior_citizen,tenure,monthly_charges,total_charges,contract_type,payment_method,churn
+CUST_001,Female,0,12,65.5,786.0,Month-to-month,Electronic check,No
+CUST_002,Male,0,54,89.2,4816.8,Two year,Bank transfer,No
+CUST_003,Female,1,1,45.3,45.3,Month-to-month,Electronic check,Yes
+CUST_004,Male,0,32,102.1,3267.2,One year,Credit card,No
+CUST_005,Female,0,3,70.1,210.3,Month-to-month,Mailed check,Yes
+CUST_006,Male,1,71,110.5,7845.5,Two year,Credit card,No
+CUST_007,Female,0,9,20.2,181.8,Month-to-month,Mailed check,No
+CUST_008,Male,0,0,50.0,,One year,Mailed check,No
+CUST_009,Female,0,24,95.0,2280.0,Month-to-month,Electronic check,Yes
+CUST_010,Male,0,48,60.0,2880.0,One year,Bank transfer,No
